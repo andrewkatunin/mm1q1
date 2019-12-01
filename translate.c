@@ -39,5 +39,6 @@ int translate_dec_hex(char num[])
   /* make a new line to make in look better in the terminal */
   printf("\n");
 
+
   return 0;
 }
